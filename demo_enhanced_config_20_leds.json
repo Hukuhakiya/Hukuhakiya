@@ -1,0 +1,89 @@
+{
+  "optimization_summary": {
+    "total_leds_in_solution": 6,
+    "active_leds": 5,
+    "target_led_count": 20,
+    "fitness": 5.480988425021432,
+    "RLS": 0.7404942125107162,
+    "CL_star": 1.0,
+    "classification": "C",
+    "total_active_power": 0.5211327560727702
+  },
+  "spectral_ratios": {
+    "SR_1": 0.016139482012921137,
+    "SR_2": 0.49072576383129346,
+    "SR_3": 0.7571787876799256,
+    "SR_4": 0.6538761022567051,
+    "SR_5": 0.01204695683040134,
+    "SR_6": 0.0,
+    "SR_7": 0.0,
+    "SR_8": 0.0,
+    "SR_9": 0.0
+  },
+  "spectral_mismatches": {
+    "CL_1": 0.9838605179870789,
+    "CL_2": 0.5092742361687066,
+    "CL_3": 0.24282121232007436,
+    "CL_4": 0.3461238977432949,
+    "CL_5": 0.9879530431695986,
+    "CL_6": 1.0,
+    "CL_7": 1.0,
+    "CL_8": 1.0,
+    "CL_9": 1.0
+  },
+  "led_configuration": [
+    {
+      "index": 28,
+      "name": "Blue_11",
+      "peak_wavelength": 456.32391126365707,
+      "viewing_angle": 105.82107353709621,
+      "power_factor": 0.11392594560837062,
+      "manufacturer": "Manufacturer_4",
+      "part_number": "PN_0028"
+    },
+    {
+      "index": 43,
+      "name": "Green_11",
+      "peak_wavelength": 523.1617627342193,
+      "viewing_angle": 96.57384356151164,
+      "power_factor": 0.1030541787203526,
+      "manufacturer": "Manufacturer_2",
+      "part_number": "PN_0043"
+    },
+    {
+      "index": 46,
+      "name": "Amber_2",
+      "peak_wavelength": 590.0542301388157,
+      "viewing_angle": 50.80148916356089,
+      "power_factor": 0.14124979208867636,
+      "manufacturer": "Manufacturer_2",
+      "part_number": "PN_0046"
+    },
+    {
+      "index": 42,
+      "name": "Green_10",
+      "peak_wavelength": 515.2796507196933,
+      "viewing_angle": 64.06240458078777,
+      "power_factor": 0.0527791715551969,
+      "manufacturer": "Manufacturer_3",
+      "part_number": "PN_0042"
+    },
+    {
+      "index": 58,
+      "name": "Red_6",
+      "peak_wavelength": 631.9376712608276,
+      "viewing_angle": 109.62365043782233,
+      "power_factor": 0.11012366810017374,
+      "manufacturer": "Manufacturer_3",
+      "part_number": "PN_0058"
+    }
+  ],
+  "inactive_leds": [
+    {
+      "index": 22,
+      "name": "Blue_5",
+      "peak_wavelength": 451.2294908289702,
+      "power_factor": 0.0
+    }
+  ]
+}
